@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello word! 👋
+
+Olá, eu sou o Francisco, tenho 9 anos anos e estou estudando as linguagens python e c para aplicar à robótica.
+
+### Estou estudando
+
+Introdução a linguagem python.
+
+** Professor e Orientador: ** [Hugo Rafael](https://github.com/hgrafa)
 
 <!--
 **francisco-robot/francisco-robot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
